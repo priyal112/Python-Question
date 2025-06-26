@@ -2,3 +2,12 @@
 
 user_input = input("Enter: ")
 print("Data type is: ", type(user_input))
+
+
+# What is the difference between / and //?
+
+a = 10
+b = 3
+
+print(a/b)  # float
+print(a//b) # int
